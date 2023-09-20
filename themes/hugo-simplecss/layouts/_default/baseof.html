@@ -3,6 +3,7 @@
 {{- partial "head.html" . -}}
 
 <body>
+    <link rel="stylesheet" href='{{ "css/simple.css/simple.min.css" | absLangURL }}'>
     {{- partial "header.html" . -}}
     <main>
         {{- block "main" . }}{{- end }}
