@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>IPM - Grupo 23 on My New Hugo Site</title>
-    <link>https://example.org/</link>
+    <link>https://grfigueira.github.io/IPM3/</link>
     <description>Recent content in IPM - Grupo 23 on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://grfigueira.github.io/IPM3/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Assignments</title>
-      <link>https://example.org/assignments/</link>
+      <link>https://grfigueira.github.io/IPM3/assignments/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/assignments/</guid>
+      <guid>https://grfigueira.github.io/IPM3/assignments/</guid>
       <description>Assignment 1: Good and bad design Deliverables:
 Guilherme Figueira - 60288 </description>
     </item>
     
     <item>
       <title>Project</title>
-      <link>https://example.org/projeto/</link>
+      <link>https://grfigueira.github.io/IPM3/projeto/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/projeto/</guid>
+      <guid>https://grfigueira.github.io/IPM3/projeto/</guid>
       <description>Feast - Your cooking companion Description User-friendly web or mobile app that simplifies the process of finding, saving, and planning meals.
 This app can be a valuable resource for individuals or families looking to organize their meal preparation, explore new recipes, and manage their grocery shopping efficiently.</description>
     </item>

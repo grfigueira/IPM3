@@ -2,6 +2,7 @@ baseURL = 'https://grfigueira.github.io/IPM3/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'hugo-simplecss'
+relativeURLs = true
 
 [menu]
 [[menu.main]]
