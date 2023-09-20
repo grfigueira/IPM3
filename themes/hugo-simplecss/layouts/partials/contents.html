@@ -1,0 +1,14 @@
+{{ if ne .TableOfContents "<nav id=\"TableOfContents\"></nav>" }}
+<style>
+    /* Override default styles for aside element */
+    aside {
+        width: 100%; /* Make it full width */
+    }
+</style>
+<aside>
+    <details open>
+        <summary>Table of Contents</summary>
+        {{ replace ( replace .TableOfContents "<nav id=\"TableOfContents\">" "" ) "</nav>" "" | safeHTML }}
+    </details>
+</aside>
+{{ end }}

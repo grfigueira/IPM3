@@ -1,0 +1,19 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'hugo-simplecss'
+
+[menu]
+[[menu.main]]
+    name = 'Home'
+    pageRef = '/'
+    weight = 1
+[[menu.main]]
+    name = 'Project'
+    pageRef = '/projeto'
+    weight = 2 
+[[menu.main]]
+    name = 'Assignments'
+    pageRef = '/assignments'
+    weight = 3 
+
