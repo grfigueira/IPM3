@@ -4,6 +4,13 @@
 
 <body>
     <link rel="stylesheet" href='{{ "css/simple.css/simple.min.css" | absLangURL }}'>
+    <style>
+        img {
+            opacity: 1.0;
+            filter: brightness(100%);
+        }
+    </style>
+
     {{- partial "header.html" . -}}
     <main>
         {{- block "main" . }}{{- end }}
