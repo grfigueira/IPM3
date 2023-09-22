@@ -1,6 +1,6 @@
 baseURL = 'https://grfigueira.github.io/IPM3/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'IPM Grupo 23'
 theme = 'hugo-simplecss'
 
 [menu]
