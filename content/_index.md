@@ -121,8 +121,8 @@ dialog::backdrop {
 
 
 <div class="image-container">
-    <figure class="image-box">
-        <img src="https://placekitten.com/420/420" alt="Photo of a kitten" width="200" height="90">
+    <figure class="image-box" onclick="document.getElementById('dialog-AF').showModal()">
+        <img src="https://via.placeholder.com/250" alt="Photo of a kitten" width="200" height="90">
         <figcaption>Alexandre Fernandes<br>- 58239 -</figcaption>
     </figure>
     <figure class="image-box" onclick="document.getElementById('dialog-AR').showModal()">
@@ -171,6 +171,20 @@ dialog::backdrop {
     <ul>
         <li><b>Student number:</b> 59835 </li>
         <li><b>Email:</b> <a href="mailto:at.ribeiro@campus.fct.unl.pt">at.ribeiro@campus.fct.unl.pt</a></li>
+        <li><b>Course:</b> MIEI</li>
+    </ul>
+    <form method="dialog">
+    	<button>Close</button>
+    </form>
+</dialog>
+
+
+<dialog id="dialog-AF">
+    <h4 style="text-align:center"> Alexandre Fernandes
+    </h4>
+    <ul>
+        <li><b>Student number:</b> 58239 </li>
+        <li><b>Email:</b> ? </li>
         <li><b>Course:</b> MIEI</li>
     </ul>
     <form method="dialog">
