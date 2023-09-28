@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>IPM - Grupo 23 on IPM Grupo 23</title>
+    <title>Home on IPM Grupo 23</title>
     <link>https://grfigueira.github.io/IPM3/</link>
-    <description>Recent content in IPM - Grupo 23 on IPM Grupo 23</description>
+    <description>Recent content in Home on IPM Grupo 23</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://grfigueira.github.io/IPM3/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -22,10 +22,10 @@ Alexandre Fernandes - 58239 André Ribeiro - 59835 Gonçalo Gingeira - 60355 Gui
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://grfigueira.github.io/IPM3/projeto/</guid>
-      <description>Feast - Your cooking companion Description User-friendly mobile app that simplifies the process of finding, saving, and planning meals.
+      <description>Feast - Your cooking companion Reports Stage 1: project proposal Description User-friendly mobile app that simplifies the process of finding, saving, and planning meals.
 This app can be a valuable resource for individuals or families looking to organize their meal preparation, explore new recipes, and manage their grocery shopping efficiently.
 Features:
-Community based recipes: Users can upload their own recipes to the platform. Filter recipes: Filter with categories like: &amp;ldquo;vegan&amp;rdquo;, &amp;ldquo;pescatarian&amp;rdquo;, &amp;ldquo;breakfast&amp;rdquo;, etc. Digital fridge: Users can catalog what ingrediants they have and see what meals they can make.</description>
+Community based recipes: Users can upload their own recipes to the platform. Filter recipes: Filter with categories like: &amp;ldquo;vegan&amp;rdquo;, &amp;ldquo;pescatarian&amp;rdquo;, &amp;ldquo;breakfast&amp;rdquo;, etc.</description>
     </item>
     
   </channel>

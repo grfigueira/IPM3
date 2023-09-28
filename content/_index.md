@@ -41,6 +41,12 @@ title: 'Home'
     margin-right: 0;
 }
 
+li, ul, a {
+  outline: none;
+  -moz-outline-style: none;
+
+}
+
 figure {
     flex: 1; /* Each figure takes up an equal portion of the container */
     text-align: center; /* Center align contents */
@@ -122,7 +128,7 @@ dialog::backdrop {
 
 <div class="image-container">
     <figure class="image-box" onclick="document.getElementById('dialog-AF').showModal()">
-        <img src="https://via.placeholder.com/250" alt="Photo of a kitten" width="200" height="90">
+        <img src="../IPM3/foto-AF.png"" alt="Photo of Alexandre" width="200" height="90">
         <figcaption>Alexandre Fernandes<br>- 58239 -</figcaption>
     </figure>
     <figure class="image-box" onclick="document.getElementById('dialog-AR').showModal()">
@@ -184,7 +190,7 @@ dialog::backdrop {
     </h4>
     <ul>
         <li><b>Student number:</b> 58239 </li>
-        <li><b>Email:</b> ? </li>
+        <li><b>Email:</b>  <a href="mailto:aal.fernandes@campus.fct.unl.pt">aal.fernandes@campus.fct.unl.pt</a></li>
         <li><b>Course:</b> MIEI</li>
     </ul>
     <form method="dialog">
