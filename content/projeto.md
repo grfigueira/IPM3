@@ -27,4 +27,4 @@ This app can be a valuable resource for individuals or families looking to organ
 **Features:**
 - **Community based recipes**: Users can upload their own recipes to the platform.
 - **Filter recipes**: Filter with categories like: "vegan", "pescatarian", "breakfast", etc.
-- **Digital fridge**: Users can catalog what ingrediants they have and see what meals they can make. 
+- **Digital fridge**: Users can catalog what ingredients they have and see what meals they can make. 
