@@ -2,6 +2,8 @@
 title: 'Home'
 ---
 
+<!-- vim: syntax=html -->
+
 <h1 style="text-align:center">IPM - Group 23
 </h1>
 

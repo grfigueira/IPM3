@@ -12,7 +12,7 @@ title: 'Project'
 
 ### Reports
 
-#### [Stage 1: project proposal](../G_23_stage1.pdf)
+#### [Stage 1: Project Proposal](../G_23_stage1.pdf)
 
 #### [Stage 2: User and Task analysis](../G_23_stage2.pdf)
 
@@ -20,11 +20,6 @@ title: 'Project'
 
 ### Description 
 
-User-friendly mobile app that simplifies the process of finding, saving, and planning meals. 
+**FEAST** is an app that aims to solve all the problems related to the searching and sharing of recipes for users of all skill levels in what comes to cooking experience.
 
-This app can be a valuable resource for individuals or families looking to organize their meal preparation, explore new recipes, and manage their grocery shopping efficiently.
-
-**Features:**
-- **Community based recipes**: Users can upload their own recipes to the platform.
-- **Filter recipes**: Filter with categories like: "vegan", "pescatarian", "breakfast", etc.
-- **Digital fridge**: Users can catalog what ingredients they have and see what meals they can make. 
+Great importance is given to the filtering in the search of recipes with customization of the user's experience with features that want to take special attention to allergies, intolerances, and availability of ingredients.
