@@ -16,6 +16,8 @@ title: 'Project'
 
 #### [Stage 2: User and Task analysis](../G_23_stage2.pdf)
 
+#### [Stage 3: 1st Prototype](../G_23_stage3.pdf)
+
 ---
 
 ### Description 
