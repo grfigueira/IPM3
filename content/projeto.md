@@ -18,6 +18,8 @@ title: 'Project'
 
 #### [Stage 3: 1st Prototype](../G_23_stage3.pdf)
 
+#### [Stage 4: Computational Prototype](../G_23_stage4.pdf)
+
 ---
 
 ### Description 
