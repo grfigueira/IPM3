@@ -20,6 +20,10 @@ title: 'Project'
 
 #### [Stage 4: Computational Prototype](../G_23_stage4.pdf)
 
+#### Stage 5: Heuristic Evaluation: [Received evaluation](../G_23_stage5_ours.pdf) | [Sent evaluation](../G_23_stage5_sent.pdf)
+
+#### [Stage 6: Evaluation results and presentation](../G_23_stage6.pdf)
+
 ---
 
 ### Description 
